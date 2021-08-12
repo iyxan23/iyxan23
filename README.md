@@ -11,6 +11,7 @@
 - 💬 Ask me about **Android, Java, or Kotlin**
 - 📫 How to reach me **me@nurihsanalghifari.my.id**
 - ⚡ Fun fact **the command `r` will execute the last command you ran in the terminal**
+- ~~I use arch btw~~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
