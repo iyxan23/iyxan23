@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyxan23&row=1" alt="iyxan23" /></a> </p>
 
 - 🔭 I’m currently working on **[Blokkok](https://github.com/Blokkok)**
-- 🌱 I’m currently learning **low-level programming languages**
+- 🌱 I’m currently learning **Rust**
 - 📝 I write articles on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
 - 💬 Ask me about **Android, Java, or Kotlin**
 - 📫 How to reach me **me@nurihsanalghifari.my.id**
