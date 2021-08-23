@@ -6,10 +6,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyxan23&row=1" alt="iyxan23" /></a> </p>
 
 - 🔭 I’m currently working on **[Blokkok](https://github.com/Blokkok)**
-- 🌱 I’m currently learning **Rust**
-- 📝 I write articles on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
-- 💬 Ask me about **Android, Java, or Kotlin**
-- 📫 How to reach me **me@nurihsanalghifari.my.id**
+- 🌱 I’m currently learning **[Rust](https://rust-lang.org)**
+- 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
+- 💬 Ask me stuff about **Android, Java, or Kotlin**
+- 📫 Contact me through my email: **me@nurihsanalghifari.my.id**
 - ⚡ Fun fact **the command `r` will execute the last command you ran in the terminal**
 - ~~I use arch btw~~
 
@@ -35,7 +35,6 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-
 </p>
 
 <p align="center">
