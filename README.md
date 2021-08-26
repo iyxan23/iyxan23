@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[Blokkok](https://github.com/Blokkok)**
 - 🌱 I’m currently learning **[Rust](https://rust-lang.org)**
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
-- 💬 Ask me stuff about **Android, Java, or Kotlin**
+- 💬 Ask me stuff about **Python, Android, Java, or Kotlin**
 - 📫 Contact me through my email: **me@nurihsanalghifari.my.id**
 - ⚡ Fun fact **the command `r` will execute the last command you ran in the terminal**
 - ~~I use arch btw~~
