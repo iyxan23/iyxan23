@@ -10,7 +10,7 @@
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
 - 💬 Ask me stuff about **Python, Android, Java, or Kotlin**
 - 📫 Contact me through my email: **me@nurihsanalghifari.my.id**
-- ⚡ Fun fact **the command `r` will execute the last command you ran in the terminal**
+- ⚡ Fun fact **the shortcut `!!` will be the last command you ran in the terminal.** If you ever forgot to put `sudo`, just do `sudo !!`.
 - ~~I use arch btw~~
 
 <h3 align="left">Connect with me:</h3>
