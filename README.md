@@ -39,5 +39,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iyxan23&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="iyxan23" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Iyxan23&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="iyxan23" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Iyxan23&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="iyxan23" />
+  <a href="https://wakatime.com/@Iyxan23"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Iyxan23&show_icons=true&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" alt="iyxan23" /> </a>
 </p>
