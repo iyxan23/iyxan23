@@ -10,10 +10,7 @@
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
 - 💬 Ask me stuff about **Python, Android, Java, or Kotlin**
 - 📫 Contact me through discord: `Iyxan23#8934` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
-- ⚡ Fun fact
-
-  If you got a broken keyboard that spams a character like me (and you use X), you can use `xmodmap` to map that spamming key to something else like `NoSymbol` so that it wouldn't register on apps. It's not clean (like discord that still detects that key as a keybind / shortcut) but its good enough while you wait for your new keyboard to arrive.
-
+- <details><summary>⚡ Fun fact</summary> If you got a broken keyboard that spams a character like me (and you use X), you can use `xmodmap` to map that spamming key to something else like `NoSymbol` so that it wouldn't register on apps. It's not clean (like discord that still detects that key as a keybind / shortcut) but its good enough while you wait for your new keyboard to arrive.</details>
 - ~~I use arch btw~~
 
 <h3 align="left">I'm here:</h3>
