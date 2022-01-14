@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **[Rust](https://rust-lang.org)**
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
 - 💬 Ask me stuff about **Python, Android, Java, or Kotlin**
-- 📫 Contact me through my email: **me@nurihsanalghifari.my.id**
+- 📫 Contact me through discord: `Iyxan23#8934` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
 - ⚡ Fun fact **the shortcut `!!` will be the last command you ran in zsh.** If you ever forgot to put `sudo`, just do `sudo !!`.
 - ~~I use arch btw~~
 
