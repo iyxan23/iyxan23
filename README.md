@@ -10,7 +10,7 @@
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id)
 - 💬 Ask me stuff about **Python, Android, Java, or Kotlin**
 - 📫 Contact me through discord: `Iyxan23#8934` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
-- <details><summary>⚡ Fun fact</summary> If you got a broken keyboard that spams a character like me (and you use X), you can use `xmodmap` to map that spamming key to something else like `NoSymbol` so that it wouldn't register on apps. It's not clean (like discord that still detects that key as a keybind / shortcut) but its good enough while you wait for your new keyboard to arrive.</details>
+- <details><summary>⚡ Fun fact</summary>You can make something like this using a <code>summary</code> and <code>details</code> tag on github's markdown viewer. See this readme's source <a href="https://github.com/Iyxan23/Iyxan23/tree/main/README.md#L13">here</a></details>
 - ~~I use arch btw~~
 
 <h3 align="left">I'm here:</h3>
