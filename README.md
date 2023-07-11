@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **a secret project**
 - 🌱 I’m currently learning **[Rust](https://rust-lang.org)**, and distributed computing with **Kubernetes** and **Docker**!
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id) (its mostly dead by now)
-- 📫 Contact me through discord: `Iyxan23#8934` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
+- 📫 Contact me through discord: `@ix23` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
 - <details><summary>⚡ Fun fact</summary>You can make something like this using a <code>summary</code> and <code>details</code> tag on github's markdown viewer. See this readme's source <a href="https://github.com/Iyxan23/Iyxan23/blob/main/README.md?plain=1#L13">here</a></details>
 - ~~I use arch btw~~
 
