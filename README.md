@@ -9,7 +9,7 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyxan23&row=1&no-frame=true" alt="iyxan23" /></a></p>
 
-- 🔭 I’m currently working on **a secret project**
+- 🔭 I’m currently working on **too many things at the same time**
 - 🌱 I’m currently learning **[Rust](https://rust-lang.org)**, and distributed computing with **Kubernetes** and **Docker**!
 - 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id) (its mostly dead by now)
 - 📫 Contact me through discord: `@ix23` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
