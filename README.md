@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iyxan23</h1>
-<h3 align="center">Young code hobbyist</h3>
+<h3 align="center">self-taught code hobbyist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iyxan23&label=Profile%20views&color=0e75b6&style=flat" alt="iyxan23" />
