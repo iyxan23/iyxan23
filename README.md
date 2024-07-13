@@ -9,12 +9,12 @@
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyxan23&row=1&no-frame=true" alt="iyxan23" /></a></p>
 
-- 🔭 I’m currently working on **too many things at the same time**
+- 🔭 I’m currently focusing on **[Next.js](https://nextjs.org/)**, working on **too many things at the same time**.
 - 🌱 I’m currently learning **[Rust](https://rust-lang.org)**, and distributed computing with **Kubernetes** and **Docker**!
-- 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id) (its mostly dead by now)
-- 📫 Contact me through discord: `@ix23` or telegram: `@iyxan23` or matrix: `@iyxan23:matrix.org`
-- <details><summary>⚡ Fun fact</summary>You can make something like this using a <code>summary</code> and <code>details</code> tag on github's markdown viewer. See this readme's source <a href="https://github.com/Iyxan23/Iyxan23/blob/main/README.md?plain=1#L13">here</a></details>
-- ~~I use arch btw~~
+- 🤓 I'm currently nerding around with **[NixOS](https://nixos.org)**, probably one of the best Linux distros in this world!
+- 📝 I write blogs on [https://nurihsanalghifari.my.id](https://nurihsanalghifari.my.id) (hopefully you see recent blogs here)
+- 📫 Contact me through discord: `@ix23` (most active) or telegram: `@iyxan23`.
+- <details><summary>⚡ Fun fact</summary>NixOS, the linux distro, has its own pure functional language named <code>nix</code>, it is used to build an OS from scratch. The best thing is that does it in a predictable and reproducable way, it's the OS I'm using right now and I'm loving it!</details>
 
 <h3 align="left">I'm here:</h3>
 <p align="left">
@@ -34,12 +34,16 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://rust-lang.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
 <a href="https://reactjs.org" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+<a href="https://nixos.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="40" height="40"/> </a>
+<a href="https://nextjs.org" target="_blanks"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://docker.com" target="_blanks"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blanks"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
