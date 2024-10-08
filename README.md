@@ -24,7 +24,7 @@ I love open-source, seriously. It has always been a place for me to learn and co
  - [🤝 sk-collab](https://github.com/iyxan23/sk-collab), online Sketchware collaboration platform android app, written in Java.
  - [🧾 nextrans](https://github.com/iyxan23/nextrans), typescript-first library to make integrating [midtrans](https://midtrans.com) with NextJS easier.
 
-### 🤔 Notable ideas
+### 🤔 Thought-provoking ideas
 
 Some of my interesting ideas waiting to be realized or continued.
 
